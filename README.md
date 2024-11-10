@@ -63,7 +63,7 @@ By forking this repository or using the code, you agree to follow these terms.
 
 ## Contact
 
-For questions or feedback, feel free to reach out to me via GitHub or email at contact.koushik@protonmail.com.
+For questions or feedback, feel free to reach out to me via GitHub or email at thekoushikkundu@gmail.com.
 
 ---
 
